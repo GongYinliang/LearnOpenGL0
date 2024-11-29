@@ -1,0 +1,6 @@
+1.Builds:工程插件配置
+2.doc:文档说明
+3.include:工程头文件
+4.LibShared:三方库
+5.output:工程输出目录
+6.src：源文件目录
